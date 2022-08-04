@@ -1,7 +1,7 @@
 import React from 'react';
 import { createStore } from 'redux';
 
-// Stores
+// States
 let initialDeposite = 0;
 
 // Reducers
